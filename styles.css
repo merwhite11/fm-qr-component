@@ -8,14 +8,14 @@
 
 
 @font-face {
-  font-family: "Outfit";
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
   src: url("/fonts/Outfit-Regular.ttf") format("truetype");
   font-weight: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: "Outfit";
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
   src: url("/fonts/Outfit-Bold.ttf") format("truetype");
   font-weight: bold;
   font-display: swap;
